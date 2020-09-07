@@ -1,0 +1,265 @@
+[33mcommit 6202ad56867594fd98a76b90e78a8b0b96c04f15[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: L-WILIAN1987 <lw-wilian@hotmail.com>
+Date:   Tue Sep 1 12:19:45 2020 -0300
+
+    Atualizando repositorio forkado
+
+[33mcommit da4023fc3b3641fa8102a4181cc35630feec419d[m
+Author: L-WILIAN1987 <lw-wilian@hotmail.com>
+Date:   Thu Aug 27 22:23:02 2020 -0300
+
+    Aprendendo a Contribuir nos projetos
+
+[33mcommit 56415d580e3e14f0592540129aa714bcdacb135c[m
+Author: L-WILIAN1987 <lw-wilian@hotmail.com>
+Date:   Thu Aug 27 13:29:10 2020 -0300
+
+    .gitignore
+
+[33mcommit 72717d9f7626edcc466fc6ce170938552808f96c[m
+Author: Iury Gomes de Oliveira <iury.oliveira@ifto.edu.br>
+Date:   Wed Aug 26 10:42:09 2020 -0300
+
+    Tutorial VSCODE atualizado
+
+[33mcommit 0f0f77a7cc3971e539f09f852c92f977728d701c[m
+Merge: 40fefd0 2707e61
+Author: Iury Gomes de Oliveira <iury.oliveira@ifto.edu.br>
+Date:   Wed Aug 26 09:19:34 2020 -0300
+
+    Merge pull request #47 from stowpass/patch-1
+    
+    Aluno Egeverton Marcelino de Oliveira
+
+[33mcommit 40fefd079e756f592be75978209eea4169224455[m
+Merge: 02c8391 27b0549
+Author: Iury Gomes de Oliveira <iury.oliveira@ifto.edu.br>
+Date:   Wed Aug 26 09:19:04 2020 -0300
+
+    Merge pull request #48 from stowpass/patch-2
+    
+    Aluno Egeverton Marcelino de Oliveira
+
+[33mcommit 02c8391b6923a23cf48751bd7d2052f755983519[m
+Author: Iury Gomes de Oliveira <iury.oliveira@ifto.edu.br>
+Date:   Wed Aug 26 09:18:02 2020 -0300
+
+    Update Tutorial do VS code
+
+[33mcommit 27b0549f43076f2637153ee709b49dfb8c98a38c[m
+Author: Ton Marcelino <37357399+stowpass@users.noreply.github.com>
+Date:   Wed Aug 26 07:29:19 2020 -0300
+
+    Aluno Egeverton Marcelino de Oliveira
+
+[33mcommit 2707e61b2608d9850e12b12d2fff13a510e789fc[m
+Author: Ton Marcelino <37357399+stowpass@users.noreply.github.com>
+Date:   Wed Aug 26 07:17:02 2020 -0300
+
+    Aluno Egeverton Marcelino de Oliveira
+
+[33mcommit a7b350d7ba568aa220a8a516166dcbc16856cff4[m
+Merge: 0123d1c ecdc037
+Author: Iury Gomes de Oliveira <iury.oliveira@ifto.edu.br>
+Date:   Wed Aug 26 06:06:04 2020 -0300
+
+    Merge pull request #39 from felipe8764/master
+    
+    Aprendendo a contribuir nos projetos
+
+[33mcommit 0123d1cd0dccd019d8c6a320c1b3d2e3895a7a31[m
+Merge: 1c90115 30660f6
+Author: Iury Gomes de Oliveira <iury.oliveira@ifto.edu.br>
+Date:   Wed Aug 26 06:05:46 2020 -0300
+
+    Merge pull request #41 from eufelipeigor/master
+    
+    Contribuição Correta
+
+[33mcommit 1c90115895c972a1e8693e5d734af99d526b0f4f[m
+Merge: 586de92 2681aba
+Author: Iury Gomes de Oliveira <iury.oliveira@ifto.edu.br>
+Date:   Wed Aug 26 06:05:26 2020 -0300
+
+    Merge pull request #42 from rafabritu/master
+    
+    Adicionando minha opnião sobre o curso
+
+[33mcommit 586de924ca8e63013103f099d2d3e7356ec739c6[m
+Merge: 0527587 b53528c
+Author: Iury Gomes de Oliveira <iury.oliveira@ifto.edu.br>
+Date:   Wed Aug 26 06:04:56 2020 -0300
+
+    Merge pull request #43 from UMJS/master
+    
+    Realização da Atividade4
+
+[33mcommit 0527587baa27437d1b90e6945b73be06e7d924c5[m
+Merge: 130556d 158b55c
+Author: Iury Gomes de Oliveira <iury.oliveira@ifto.edu.br>
+Date:   Wed Aug 26 06:04:31 2020 -0300
+
+    Merge pull request #44 from gabibaudi/master
+    
+    Aprendendo a Contribuir
+
+[33mcommit 130556dac8c19604359878003376dd0d737f73e3[m
+Merge: 79545e2 66e7fc2
+Author: Iury Gomes de Oliveira <iury.oliveira@ifto.edu.br>
+Date:   Wed Aug 26 06:03:36 2020 -0300
+
+    Merge pull request #45 from amsdbarreto/master
+    
+    ARTUR MAURICIO
+
+[33mcommit 79545e228d9ffb4b3991fb852dc8db55c0975fbc[m
+Merge: a72c010 eb4601d
+Author: Iury Gomes de Oliveira <iury.oliveira@ifto.edu.br>
+Date:   Wed Aug 26 06:03:14 2020 -0300
+
+    Merge pull request #46 from lucasdias08/master
+    
+    Create Lucas Ramon Martins Dias
+
+[33mcommit eb4601d91214ad82600001e9ee8ce9b47c22e8ca[m
+Author: Lucas Dias <50115108+lucasdias08@users.noreply.github.com>
+Date:   Wed Aug 26 01:24:25 2020 -0300
+
+    Create Lucas Ramon Martins Dias
+
+[33mcommit 158b55cd23b1db21b7f183957a7ac3a63f4d0323[m
+Author: Gabriella da Costa Bou Baudi <70218858+gabibaudi@users.noreply.github.com>
+Date:   Tue Aug 25 23:35:30 2020 -0300
+
+    Aprendendo a Contribuir
+
+[33mcommit b53528ccbc2d58b46ceacace67c49045dd425085[m
+Author: UMJS <ubaldo3@gmail.com>
+Date:   Tue Aug 25 23:29:41 2020 -0300
+
+    Participação
+
+[33mcommit 4e48a3a0b2ec5c5327a19985ae1ff36c655b1778[m
+Author: UMJS <ubaldo3@gmail.com>
+Date:   Tue Aug 25 23:26:49 2020 -0300
+
+    First Commit
+
+[33mcommit 66e7fc26ba84f1d1cb09d499f8696ed2c1fb6c64[m
+Author: Artur Mauricio <amsd.barreto@gmail.com>
+Date:   Tue Aug 25 23:26:30 2020 -0300
+
+    ARTUR MAURICIO
+
+[33mcommit 8765a9cb507072b33f15f9337f80c46eb901395e[m
+Author: UMJS <ubaldo3@gmail.com>
+Date:   Tue Aug 25 23:24:08 2020 -0300
+
+    Remoção
+
+[33mcommit a6e6279963341e68dae19cec75e75655f9324036[m
+Author: Gabriella da Costa Bou Baudi <70218858+gabibaudi@users.noreply.github.com>
+Date:   Tue Aug 25 23:15:19 2020 -0300
+
+    Update and rename Felipe_Gustavo_Braga.html to Gabriella da Costa Bou Baudi.html
+
+[33mcommit 2681aba4cae74b4f1e4da986623d1b8a93c0ca5a[m
+Author: Rafael Brito <rafaelbritohs@gmail.com>
+Date:   Tue Aug 25 23:13:59 2020 -0300
+
+    Adicionando minha opniao sobre o curso
+
+[33mcommit 6eb391b0c67b02e5b583f2dfdfb16143482a602d[m
+Merge: a14ede9 a72c010
+Author: Gabriella da Costa Bou Baudi <70218858+gabibaudi@users.noreply.github.com>
+Date:   Tue Aug 25 23:11:47 2020 -0300
+
+    Merge branch 'master' into master
+
+[33mcommit 30660f67eabd561c444e01865d7ac35c3ceb8993[m
+Author: Felipe Igor Benedito da Silva <felipesilva.020@gmail.com>
+Date:   Tue Aug 25 23:09:51 2020 -0300
+
+    Commit de Contribuicao Felipe
+
+[33mcommit ecdc0374b16a95924237e416feff1a0d31840009[m
+Author: Felipe Souza da Silva <felipesouza9876@gmail.com>
+Date:   Tue Aug 25 23:02:34 2020 -0300
+
+    Aprendendo a contribuir nos projetos
+
+[33mcommit a14ede9def868595307f4db83bb5737a56d6e263[m
+Author: Gabriella da Costa Bou Baudi <gaby.baudi@gmail.com>
+Date:   Tue Aug 25 22:57:02 2020 -0300
+
+    Aprendendo a Contribuir nos Projetos
+
+[33mcommit 8bacb9a9fa689906962e14e9e337ddb65f50650f[m
+Merge: 9b35d47 4eccfa6
+Author: Gabriella da Costa Bou Baudi <gaby.baudi@gmail.com>
+Date:   Tue Aug 25 22:51:23 2020 -0300
+
+    Aprendendo a Contribuir nos Projetos
+
+[33mcommit a72c010e54c58d96ccd589cd6a791d403940df46[m
+Merge: c4c6777 1762304
+Author: Iury Gomes de Oliveira <iury.oliveira@ifto.edu.br>
+Date:   Tue Aug 25 22:43:43 2020 -0300
+
+    Merge pull request #16 from mgckaled/master
+    
+    Obtendo mudanças
+
+[33mcommit c4c6777c484f803d903de9addb34c42ba0db7b43[m
+Merge: 6a3d1f0 1d867cf
+Author: Iury Gomes de Oliveira <iury.oliveira@ifto.edu.br>
+Date:   Tue Aug 25 22:43:12 2020 -0300
+
+    Merge pull request #19 from BrotherBoris/master
+    
+    Joao Antonio Fernandes
+
+[33mcommit 6a3d1f067026e58603ff3da8b930b3bb27de9d60[m
+Merge: bfbd378 65e19cc
+Author: Iury Gomes de Oliveira <iury.oliveira@ifto.edu.br>
+Date:   Tue Aug 25 22:42:37 2020 -0300
+
+    Merge pull request #20 from anacarolina00/master
+    
+    Aprendendo a Contribuir
+
+[33mcommit bfbd3781e4754fb33725a877e1ebf583b6a835b0[m
+Merge: 8e390d3 a1189a1
+Author: Iury Gomes de Oliveira <iury.oliveira@ifto.edu.br>
+Date:   Tue Aug 25 22:42:09 2020 -0300
+
+    Merge pull request #17 from Iudys/master
+    
+    outro desenvolvedor
+
+[33mcommit 8e390d3156cf92892d147bde66fe76855c075916[m
+Merge: 185ffe8 8e63cd9
+Author: Iury Gomes de Oliveira <iury.oliveira@ifto.edu.br>
+Date:   Tue Aug 25 22:41:47 2020 -0300
+
+    Merge pull request #22 from mizaelc/master
+    
+    contribuindo com sucesso
+
+[33mcommit 185ffe80701bc12adcd7ff507307e2af9c634445[m
+Merge: 83e7fac 8f61ab7
+Author: Iury Gomes de Oliveira <iury.oliveira@ifto.edu.br>
+Date:   Tue Aug 25 22:41:28 2020 -0300
+
+    Merge pull request #21 from VivianeCristina1/master
+    
+    Aprendendo a Contribuir nos Projetos :)
+
+[33mcommit 83e7fac1126211d3a9a2ccdee80a06f360d4d331[m
+Merge: 0dfcfc0 01e1758
+Author: Iury Gomes de Oliveira <iury.oliveira@ifto.edu.br>
+Date:   Tue Aug 25 22:41:08 2020 -0300
+
+    Merge pull request #18 from santaali/Alice-Alves-Cardoso-de-Brito
+    
+    Create by
