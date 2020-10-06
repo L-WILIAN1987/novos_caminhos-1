@@ -1,2 +1,6 @@
 [23-Sep-2020 18:35:48 America/Araguaina] PHP Parse error:  syntax error, unexpected '.' in /usr/share/nginx/html/doc 2/index.php on line 8
 [23-Sep-2020 18:36:05 America/Araguaina] PHP Parse error:  syntax error, unexpected '.' in /usr/share/nginx/html/doc 2/index.php on line 8
+[05-Oct-2020 21:20:36 America/Araguaina] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /usr/share/nginx/html/2.8_Closures_e_generators/index.php on line 59
+[05-Oct-2020 21:20:36 America/Araguaina] PHP Stack trace:
+[05-Oct-2020 21:20:36 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/2.8_Closures_e_generators/index.php:0
+[05-Oct-2020 21:20:36 America/Araguaina] PHP   2. generatorDates() /usr/share/nginx/html/2.8_Closures_e_generators/index.php:64
